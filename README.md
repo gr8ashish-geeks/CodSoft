@@ -1,4 +1,6 @@
-Successfully Completed Task 1 CodSoft Internship!
-Developed a Customer Churn Prediction Model using Logistic Regression,KNeighborsClassifier and Random Forest Classifier Algorithm.
+Successfully Completed Tasks of CodSoft Internship!
+1. Developed a Customer Churn Prediction Model using Logistic Regression,KNeighborsClassifier and Random Forest Classifier Algorithm.
+2. Developed a robust machine learning model capable of identifying fraudulent transactions with high accuracy. Credit card fraud is a significant challenge for financial institutions and cardholders alike. In my project, I explored a dataset containing anonymized credit card transactions and developed a machine learning model to detect fraudulent transactions.
+
 
 🔍 Thrilled to contribute impactful solutions and continue learning in the field of machine learning.
